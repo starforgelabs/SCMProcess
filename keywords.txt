@@ -1,0 +1,7 @@
+SCMProcess    KEYWORD1
+Milliseconds  KEYWORD2
+State         KEYWORD3
+execute       KEYWORD4
+getState      KEYWORD5
+hibernate     KEYWORD6
+resume        KEYWORD7
